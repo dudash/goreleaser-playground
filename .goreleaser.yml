@@ -45,7 +45,7 @@ brews:
   -
     name: tektoncd-cli
     tap:
-      owner: tektoncd
+      owner: dudash
       name: homebrew-tools
     folder: Formula
     homepage: "https://github.com/tektoncd/cli"
